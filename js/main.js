@@ -2,7 +2,11 @@
 
 const button = document.querySelector(".button");
 
+// Добавляем обработчик
+
 button.addEventListener("click", showCards);
+
+// Вызываем асинхронную функцию
 
 async function showCards() {
   const container = document.querySelector(".container");
