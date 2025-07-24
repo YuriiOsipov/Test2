@@ -55,6 +55,8 @@ body {
   transition-duration: 0.3s;
 }
 
+/* Увеличиваем карточку */
+
 .card:hover {
   scale: 1.05;
 }

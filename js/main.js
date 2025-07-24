@@ -1,3 +1,5 @@
+// Ищем кнопку
+
 const button = document.querySelector(".button");
 
 button.addEventListener("click", showCards);
