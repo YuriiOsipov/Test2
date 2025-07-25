@@ -36,5 +36,3 @@ async function showCards() {
     console.error(`Ошибка ${error.message}`);
   }
 }
-
-console.log("Continue");
